@@ -1,0 +1,224 @@
+[ 2016-03-21T09:03:07+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
+[ 2016-03-21T09:07:10+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
+[ 2016-03-21T11:57:09+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
+[ 2016-03-21T12:10:40+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
+[ 2016-03-21T12:13:31+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
+[ 2016-03-21T12:15:41+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
+[ 2016-03-21T12:19:21+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
+[ 2016-03-21T12:20:11+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
+[ 2016-03-21T12:20:38+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: origian /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 77 行.
+ERR: 1048:Column 'getmoney' cannot be null
+ [ SQL语句 ] : INSERT INTO `sp_order` (`sn`,`address`,`tel`,`time`,`remark`,`inv_content`,`amount`,`getmoney`,`money_paid`,`refer`,`add_time`,`latitude`,`longitude`,`company`,`area`,`ap`) VALUES ('1364520160321','百支付  金穗雅园 b11栋303','13924219628','12:29:59','','','16.00',NULL,NULL,NULL,'12:20:38',NULL,NULL,'赤岗','广州','上午')
+NOTIC: [2] Missing argument 2 for Home\Controller\AssistantController::saveOrderGoods(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php on line 41 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 111 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 113 行.
+NOTIC: [8] Undefined variable: shopid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 128 行.
+ERR: 1048:Column 'area' cannot be null
+ [ SQL语句 ] : INSERT INTO `sp_order_good` (`order_id`,`name`,`price`,`num`,`sn`,`area`) VALUES ('13645','土豆焖排骨套餐','16.00','1','1364520160321',NULL)
+
+[ 2016-03-21T12:48:44+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: origian /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 77 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\AssistantController::saveOrderGoods(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php on line 41 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 111 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 113 行.
+NOTIC: [8] Undefined variable: shopid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 128 行.
+ERR: 1048:Column 'area' cannot be null
+ [ SQL语句 ] : INSERT INTO `sp_order_good` (`order_id`,`name`,`price`,`num`,`sn`,`area`) VALUES ('13645','土豆焖排骨套餐','16.00','1','1364520160321',NULL)
+
+[ 2016-03-21T13:12:32+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\AssistantController::saveOrderGoods(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php on line 41 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 111 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 113 行.
+NOTIC: [8] Undefined variable: shopid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 128 行.
+ERR: 1048:Column 'area' cannot be null
+ [ SQL语句 ] : INSERT INTO `sp_order_good` (`order_id`,`name`,`price`,`num`,`sn`,`area`) VALUES ('13645','土豆焖排骨套餐','16.00','1','1364520160321',NULL)
+
+[ 2016-03-21T13:12:57+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\AssistantController::saveOrderGoods(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php on line 41 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 112 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 114 行.
+NOTIC: [8] Undefined variable: shopid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 129 行.
+ERR: 1048:Column 'area' cannot be null
+ [ SQL语句 ] : INSERT INTO `sp_order_good` (`order_id`,`name`,`price`,`num`,`sn`,`area`) VALUES ('13645','土豆焖排骨套餐','16.00','1','1364520160321',NULL)
+
+[ 2016-03-21T13:14:18+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\AssistantController::saveOrderGoods(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php on line 41 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 112 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 114 行.
+NOTIC: [8] Undefined variable: shopid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 129 行.
+ERR: 1048:Column 'area' cannot be null
+ [ SQL语句 ] : INSERT INTO `sp_order_good` (`order_id`,`name`,`price`,`num`,`sn`,`area`) VALUES ('13645','土豆焖排骨套餐','16.00','1','1364520160321',NULL)
+
+[ 2016-03-21T13:16:00+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\AssistantController::saveOrderGoods(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php on line 41 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 114 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 116 行.
+NOTIC: [8] Undefined variable: shopid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 131 行.
+ERR: 1048:Column 'area' cannot be null
+ [ SQL语句 ] : INSERT INTO `sp_order_good` (`order_id`,`name`,`price`,`num`,`sn`,`area`) VALUES ('13645','土豆焖排骨套餐','16.00','1','1364520160321',NULL)
+
+[ 2016-03-21T13:24:25+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000386s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\AssistantController::saveOrderGoods(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php on line 41 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 114 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 116 行.
+NOTIC: [8] Undefined variable: shopid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 131 行.
+ERR: 1048:Column 'area' cannot be null
+ [ SQL语句 ] : INSERT INTO `sp_order_good` (`order_id`,`name`,`price`,`num`,`sn`,`area`) VALUES ('13645','土豆焖排骨套餐','16.00','1','1364520160321',NULL)
+

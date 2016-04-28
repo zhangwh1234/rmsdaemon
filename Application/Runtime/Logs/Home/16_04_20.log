@@ -1,0 +1,396 @@
+[ 2016-04-20T10:26:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001205s ]
+
+[ 2016-04-20T10:27:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001396s ]
+
+[ 2016-04-20T10:30:52+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001546s ]
+
+[ 2016-04-20T10:31:18+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-04-20T10:31:28+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2016-04-20T10:31:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-04-20T10:32:52+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003415s ]
+
+[ 2016-04-20T10:36:06+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('北京康吉森技术有限公司','工作餐','14611143068982','(百支付)(立减-19元)万和大厦 201室 王月宾 1×特价鳕鱼饭 2×王老吉',NULL,'localhost')
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('北京大潮国际旅行社有限公司','餐费','2016041900000328','798 3D博物馆到后打电话  胡先生 42×30元 42×香蕉 42×鲜橙多',NULL,'localhost')
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('北京大潮国际旅行社有限公司','工作餐','2016041900000320','孙河乡 黄岗村 阳光少年教育基地到后打电话  程先生 56×30元 56×香蕉 56×鲜橙多 1×50元路费',NULL,'localhost')
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('北京大潮国际旅行社有限公司','工作餐','2016041900000176','园博园3号门 赵先生   更：速送 回电何时到 43×30元 22×鲜橙多 21×可乐 22×香蕉 21×梨',NULL,'localhost')
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('上海达宏松岛机械有限公司北京分公司','工作餐','14611142258055','(百支付)(立减-9元)恋日国际 朝阳区南朗家园18号楼恋日国际1716室 张文磊 1×6S 2×16',NULL,'localhost')
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2016-04-20T10:36:34+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('北京康吉森技术有限公司','工作餐','14611143068982','(百支付)(立减-19元)万和大厦 201室 王月宾 1×特价鳕鱼饭 2×王老吉',NULL,'localhost')
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('北京大潮国际旅行社有限公司','餐费','2016041900000328','798 3D博物馆到后打电话  胡先生 42×30元 42×香蕉 42×鲜橙多',NULL,'localhost')
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('北京大潮国际旅行社有限公司','工作餐','2016041900000320','孙河乡 黄岗村 阳光少年教育基地到后打电话  程先生 56×30元 56×香蕉 56×鲜橙多 1×50元路费',NULL,'localhost')
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('北京大潮国际旅行社有限公司','工作餐','2016041900000176','园博园3号门 赵先生   更：速送 回电何时到 43×30元 22×鲜橙多 21×可乐 22×香蕉 21×梨',NULL,'localhost')
+ERR: 1048:Column 'ordertime' cannot be null
+ [ SQL语句 ] : INSERT INTO `rms_invoice` (`header`,`body`,`ordersn`,`orderformtxt`,`ordertime`,`domain`) VALUES ('上海达宏松岛机械有限公司北京分公司','工作餐','14611142258055','(百支付)(立减-9元)恋日国际 朝阳区南朗家园18号楼恋日国际1716室 张文磊 1×6S 2×16',NULL,'localhost')
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-04-20T10:38:13+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001387s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+
+[ 2016-04-20T10:38:49+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2016-04-20T11:25:33+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 46 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 46 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 46 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 46 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 46 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001697s ]
+
+[ 2016-04-20T11:28:03+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001543s ]
+
+[ 2016-04-20T11:28:11+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-04-20T11:28:27+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-04-20T11:28:29+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-04-20T11:29:06+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 20 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] Missing argument 3 for curl_get(), called in /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/GetInvoiceController.class.php on line 47 and defined /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 57 行.
+NOTIC: [8] Undefined variable: headers /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 64 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001036s ]
+

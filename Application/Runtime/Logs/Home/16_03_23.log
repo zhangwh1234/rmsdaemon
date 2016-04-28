@@ -1,0 +1,1145 @@
+[ 2016-03-23T15:50:49+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 234 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001529s ]
+
+[ 2016-03-23T15:50:54+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 234 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-03-23T16:09:49+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 234 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2016-03-23T16:26:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 242 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2016-03-23T16:27:09+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 242 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2016-03-23T16:27:27+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 127 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 153 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 160 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 179 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 186 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-03-23T16:33:33+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 127 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 153 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 160 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 179 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 186 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2016-03-23T16:34:09+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 127 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 153 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 160 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 179 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 186 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+
+[ 2016-03-23T16:36:52+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001606s ]
+
+[ 2016-03-23T16:36:53+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-03-23T16:37:31+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001444s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003897s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2016-03-23T16:37:34+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-03-23T16:37:36+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2016-03-23T16:38:52+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2016-03-23T16:38:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-03-23T16:41:31+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001530s ]
+
+[ 2016-03-23T16:41:34+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-03-23T16:42:26+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001610s ]
+
+[ 2016-03-23T16:42:38+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-03-23T16:43:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001540s ]
+
+[ 2016-03-23T16:43:08+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 190 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 191 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-03-23T16:44:04+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 190 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 191 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2016-03-23T16:44:23+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 159 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 190 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 191 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-03-23T16:44:29+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 126 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 152 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 164 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 165 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 178 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 190 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 191 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-03-23T16:55:33+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 122 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 148 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 160 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 161 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 174 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 183 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 186 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001514s ]
+
+[ 2016-03-23T16:55:36+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 122 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 148 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 160 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 161 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 174 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 183 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 186 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-03-23T17:02:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 122 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 148 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 155 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 174 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 181 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001932s ]
+
+[ 2016-03-23T17:16:11+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 123 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 149 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 156 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 175 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001502s ]
+
+[ 2016-03-23T17:16:17+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 123 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 149 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 161 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 161 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 175 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 184 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-03-23T17:17:44+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 123 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 149 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 161 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 161 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 175 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 184 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001609s ]
+
+[ 2016-03-23T17:17:46+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 123 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 149 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 161 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 161 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 175 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 184 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 187 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-03-23T17:18:08+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 157 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 183 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001504s ]
+
+[ 2016-03-23T17:18:10+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-03-23T17:18:12+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-03-23T17:18:35+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001523s ]
+
+[ 2016-03-23T17:18:37+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-03-23T17:18:38+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-03-23T17:18:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-03-23T17:18:41+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-03-23T17:18:41+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-03-23T17:18:42+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-03-23T17:18:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-03-23T17:18:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-03-23T17:18:44+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-03-23T17:18:45+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-03-23T17:18:45+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-03-23T17:18:46+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-03-23T17:18:46+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2016-03-23T17:18:47+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] Illegal offset type in isset or empty /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Model.class.php 第 445 行.
+NOTIC: [8] Undefined index: orderproductsid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 124 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 150 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 162 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 163 行.
+NOTIC: [8] Undefined index: orderpaymentid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 176 行.
+NOTIC: [8] Undefined index: orderactivityid /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 185 行.
+NOTIC: [8] Undefined index: price /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 188 行.
+NOTIC: [8] Undefined index: number /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Controller/AssistantController.class.php 第 189 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+

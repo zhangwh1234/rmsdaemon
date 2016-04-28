@@ -1,0 +1,341 @@
+[ 2016-03-18T12:15:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+
+[ 2016-03-18T12:19:10+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-03-18T12:19:32+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+
+[ 2016-03-18T12:19:50+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_msg`
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : INSERT INTO `order_msg` (`msg_id`,`content`,`add_time`,`name`,`company`,`area`) VALUES ('18379','1|地址:(满20-4)大明西路霞光里73-1号 南京水务集团有限公司引江供水分公司 客户:吴剑萍
+订餐:
+要餐时间:11:04电话:84292031
+备注:[收19元][新]
+营销活动:满20减4-4.00
+支付:
+订单金额:23.00
+还需收客人金额:23.00','2016-03-18 12:19:50','张文惠','赤岗','南京')
+
+[ 2016-03-18T12:20:45+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_msg`
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : INSERT INTO `order_msg` (`msg_id`,`content`,`add_time`,`name`,`company`,`area`) VALUES ('18379','1|地址:(满20-4)大明西路霞光里73-1号 南京水务集团有限公司引江供水分公司 客户:吴剑萍
+订餐:
+要餐时间:11:04电话:84292031
+备注:[收19元][新]
+营销活动:满20减4-4.00
+支付:
+订单金额:23.00
+还需收客人金额:23.00','2016-03-18 12:20:45','张文惠','赤岗','南京')
+
+[ 2016-03-18T12:21:01+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_msg`
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : INSERT INTO `order_msg` (`msg_id`,`content`,`add_time`,`name`,`company`,`area`) VALUES ('18379','1|地址:(满20-4)大明西路霞光里73-1号 南京水务集团有限公司引江供水分公司 客户:吴剑萍
+订餐:
+要餐时间:11:04电话:84292031
+备注:[收19元][新]
+营销活动:满20减4-4.00
+支付:
+订单金额:23.00
+还需收客人金额:23.00','2016-03-18 12:21:01','张文惠','赤岗','南京')
+
+[ 2016-03-18T12:21:34+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_msg`
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : INSERT INTO `order_msg` (`msg_id`,`content`,`add_time`,`name`,`company`,`area`) VALUES ('18379','1|地址:(满20-4)大明西路霞光里73-1号 南京水务集团有限公司引江供水分公司 客户:吴剑萍
+订餐:
+要餐时间:11:04电话:84292031
+备注:[收19元][新]
+营销活动:满20减4-4.00
+支付:
+订单金额:23.00
+还需收客人金额:23.00','2016-03-18 12:21:34','张文惠','赤岗','南京')
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : INSERT INTO `order_msg` (`msg_id`,`content`,`add_time`,`name`,`company`,`area`) VALUES ('18380','2|地址:(满20-4)大明西路霞光里73-1号 南京水务集团有限公司引江供水分公司 客户:吴剑萍
+订餐:
+要餐时间:11:00电话:84292031
+备注:[收19元][新]
+营销活动:饿在线支付立减优惠-6-6.00饿使用红包-3-3.00饿在线支付立减优惠-7-7.00饿使用红包-10-10.00口碑促销-5.00满20减4-4.00
+支付:饿支付-26.00饿支付-50.00
+订单金额:23.00
+还需收客人金额:23.00','2016-03-18 12:21:34','张文惠','赤岗','南京')
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001477s ]
+
+[ 2016-03-18T12:22:53+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `order_msg`
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : INSERT INTO `order_msg` (`msg_id`,`content`,`add_time`,`name`,`company`,`area`) VALUES ('18379','1|地址:(满20-4)大明西路霞光里73-1号 南京水务集团有限公司引江供水分公司 客户:吴剑萍
+订餐:
+要餐时间:11:04电话:84292031
+备注:[收19元][新]
+营销活动:满20减4-4.00
+支付:
+订单金额:23.00
+还需收客人金额:23.00','2016-03-18 12:22:53','张文惠','赤岗','南京')
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+ERR: 1146:Table 'assistant.order_msg' doesn't exist
+ [ SQL语句 ] : INSERT INTO `order_msg` (`msg_id`,`content`,`add_time`,`name`,`company`,`area`) VALUES ('18380','2|地址:(满20-4)大明西路霞光里73-1号 南京水务集团有限公司引江供水分公司 客户:吴剑萍
+订餐:
+要餐时间:11:00电话:84292031
+备注:[收19元][新]
+营销活动:饿在线支付立减优惠-6-6.00饿使用红包-3-3.00饿在线支付立减优惠-7-7.00饿使用红包-10-10.00口碑促销-5.00满20减4-4.00
+支付:饿支付-26.00饿支付-50.00
+订单金额:23.00
+还需收客人金额:23.00','2016-03-18 12:22:53','张文惠','赤岗','南京')
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2016-03-18T12:23:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001521s ]
+
+[ 2016-03-18T12:25:31+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001568s ]
+
+[ 2016-03-18T12:25:32+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-03-18T12:26:10+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2016-03-18T12:27:21+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001557s ]
+
+[ 2016-03-18T12:29:05+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001594s ]
+
+[ 2016-03-18T12:30:28+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001497s ]
+
+[ 2016-03-18T12:31:48+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001591s ]
+
+[ 2016-03-18T12:32:18+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-03-18T12:44:00+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002133s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/ThinkPHP/Library/Think/Dispatcher.class.php 第 184 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument /Applications/XAMPP/xamppfiles/htdocs/rmsdaemon/Application/Home/Common/function.php 第 35 行.
+
